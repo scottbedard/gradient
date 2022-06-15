@@ -18,7 +18,7 @@ Or via NPM
 npm install @bedard/gradient
 ```
 
-Then instantiate an instance with reference to a canvas
+Then create an instance with reference to a canvas
 
 ```js
 const canvas = document.querySelector('canvas')
