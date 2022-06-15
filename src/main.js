@@ -319,8 +319,6 @@ class Gradient {
 
 					return [(hex >> 16 & 255) / 255, (hex >> 8 & 255) / 255, (255 & hex) / 255]
 			})
-
-			console.log(this.colors)
 	}
 	}
 
