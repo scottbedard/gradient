@@ -1,5 +1,5 @@
 {
-  "name": "stripe-gradient",
+  "name": "@bedard/gradient",
   "version": "0.1.0",
   "browser": "dist/gradient.umd.js",
   "main": "dist/gradient.cjs.js",
@@ -18,5 +18,13 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottbedard/gradient.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scottbedard/gradient/issues"
+  },
+  "homepage": "https://github.com/scottbedard/gradient#readme"
 }
