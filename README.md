@@ -1,8 +1,8 @@
 # `@bedard/gradient`
 
-A customizable version of the background animation used by Stripe.com
+This library is a customizable version of the background animation at [Stripe.com](https://stripe.com/). I am not affiliated with Stripe, I just thought the animation was cool and wanted to learn how it worked. If you find this interesting, you may also like my exploration of [Warp's button animation](https://github.com/scottbedard/warp-buttons/).
 
-[Click here for a live example](https://gradient.scottbedard.net)
+[View live example →](https://gradient.scottbedard.net)
 
 ### Basic usage
 
@@ -29,4 +29,4 @@ new Gradient(canvas, {
 })
 ```
 
-The animation can be started / stopped using the `play` and `pause` methods.
+The animation can be started / stopped using the play and pause methods.
